@@ -1,0 +1,16 @@
+  860  git log
+  861  git checkout ea10488e70a622c890979cd9dbb4d90c7c1029b1
+  862  git checkout main
+  863  git branch
+  864  git checkout -b milkshake-flavours
+  865  nano milkshakes.md
+  866  git status
+  867  git add milkshakes.md
+  868  git commit -m "added initial flavours"
+  869  git log
+  870  git checkout main
+  871  git log
+  872  git branch
+  873  git checkout -b history
+  874  git log
+  875  git branch

@@ -1,4 +1,7 @@
-first edit
-second edit
+<<<<<<< HEAD
+edits
 random changes to README
 random changes to README
+=======
+booya
+>>>>>>> history
